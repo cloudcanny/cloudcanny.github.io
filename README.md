@@ -1,2 +1,0 @@
-# cloudcanny.io
-HTML Page
