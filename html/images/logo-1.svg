@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 133.331px;
+        fill: #00bfd8;
+        font-family: "Helvetica Neue";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #393939;
+      }
+    </style>
+  </defs>
+  <text id="CloudCanny" class="cls-1" transform="translate(7.371 147.197)">C<tspan class="cls-2">loud</tspan>C<tspan>anny</tspan></text>
+</svg>
